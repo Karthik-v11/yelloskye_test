@@ -47,25 +47,25 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyADJr3f_2zy9GAOkDRUngS2njNLup7H28k',
-    appId: '1:192874940036:web:9fac73f4a6a578e9de24d1',
-    messagingSenderId: '192874940036',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'flutter-firebase-login-storage',
     authDomain: 'flutter-firebase-login-storage.firebaseapp.com',
     storageBucket: 'flutter-firebase-login-storage.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBxrAlHlm_ROSORcLQYY3KPS5jV1SOlTgQ',
-    appId: '1:192874940036:android:175589836b473fe6de24d1',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '192874940036',
     projectId: 'flutter-firebase-login-storage',
     storageBucket: 'flutter-firebase-login-storage.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAl339MyMXvEH86bUPVsAJC01GidqOQpeM',
-    appId: '1:192874940036:ios:1a937dd3742698d6de24d1',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '192874940036',
     projectId: 'flutter-firebase-login-storage',
     storageBucket: 'flutter-firebase-login-storage.firebasestorage.app',
